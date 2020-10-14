@@ -9,7 +9,7 @@ public class sample {
      
      System.out.println("devops");
      
-     System.out.println("AutoIT");
+  
 	}
 
 }
